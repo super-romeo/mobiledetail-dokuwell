@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mobiledetail.dokuwell.com/sitemap.xml
